@@ -1,2 +1,2 @@
 # prueba-clase
-esto se va a hacer en clase
+Prueba clase, Algun dia aprendere MarkDown por que va a ser necesario
